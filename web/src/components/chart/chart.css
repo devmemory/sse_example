@@ -1,0 +1,8 @@
+#div_chart {
+    width: var(--width);
+}
+
+#div_chart > canvas {
+    width: 100%;
+    overflow: scroll;
+}
